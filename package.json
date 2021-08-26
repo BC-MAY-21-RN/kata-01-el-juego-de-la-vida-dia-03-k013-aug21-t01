@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "kata-01-el-juego-de-la-vida-dia-03-k013-aug21-t01",
+=======
+  "name": "package.json",
+>>>>>>> a79bcec102ab05132e7df4e963136ca2acdf4b34
   "version": "1.0.0",
   "description": "![BrightCoders Logo](img/logo-bc.png)",
   "main": "index.js",
@@ -15,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-03-k013-aug21-t01/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-03-k013-aug21-t01#readme"
+=======
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-03-k013-aug21-t01#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+>>>>>>> a79bcec102ab05132e7df4e963136ca2acdf4b34
 }
